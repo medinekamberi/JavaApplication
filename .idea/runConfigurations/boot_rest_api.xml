@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="boot-rest-api" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.java.project.TodoAppConfig" />
+    <module name="boot-rest-api" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
